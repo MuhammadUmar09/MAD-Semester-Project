@@ -76,7 +76,7 @@
                     android:src="@drawable/user"/>
 
                 <EditText
-                    android:id="@+id/usernameEditText"
+                    android:id="@+id/loginUsernameEditText"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:hint="Enter your username"
@@ -104,7 +104,7 @@
 
 
                 <EditText
-                    android:id="@+id/passwordEditText"
+                    android:id="@+id/loginPasswordEditText"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:hint="Enter your password"
