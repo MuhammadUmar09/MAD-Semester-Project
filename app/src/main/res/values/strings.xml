@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Project</string>
+    <!-- res/values/strings.xml -->
+    <string name="Open_Drawer">Open Drawer</string>
+    <string name="Close_Drawer">Close Drawer</string>
+
+</resources>
